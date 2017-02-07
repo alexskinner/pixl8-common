@@ -1,0 +1,13 @@
+
+{
+"builtDate":"2015-04-23 15:47:51",
+"version":"1.0.0.25",
+"id":"A03F4335-BDEF-44DE-946FB16C47802F96",
+"name":"uk.co.pixl8.common",
+"codename":"uk.co.pixl8.common",
+"label":"Pixl8 Common",
+"description":"Pixl8 Common contains common extensions for Lucee",
+ "type":"server",
+ "author":"Michael Offner",
+ "category":"Core"
+}
